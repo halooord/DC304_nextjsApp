@@ -6,7 +6,7 @@ return (
             Hello, my name is Harold Suello
         </h1>
         <p className="mt-2">
-            I am a 3rd-year IT student at MDC. I am 20 years old. I currently reside in Tubigon. See my porjects
+            I am a 3rd-year IT student at MDC. I am 20 years old. I currently reside in Tubigon. See my projects
         </p>
     </main>
     );
